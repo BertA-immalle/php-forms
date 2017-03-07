@@ -16,8 +16,8 @@
 <?php
 
 
-echo "<li>" . $_GET[] . "</li>";
-echo "<li>" . $_GET[] . "</li>";
+echo "<li>" . $_GET["naam"] . "</li>";
+echo "<li>" . $_GET["geslacht"] . "</li>";
 
 
 /*
